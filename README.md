@@ -27,20 +27,31 @@ You can view the live project [here](https://pareshkharche.github.io/TeamWebPage
 2. Navigate to the project directory:
 
 sh
+
 Copy code
+
 cd TeamWebPage
 
 3. Open index.html in your web browser to view the webpage.
 
 Customization
+
 Update the team member information in the index.html file.
+
 Replace the team member images in the ./img directory.
+
 Adjust the styles in the css/style.css file to match your branding.
+
 Dependencies
+
 Bootstrap 5.0.2
+
 Bootstrap Icons 1.9.1
+
 License
+
 This project is licensed under the MIT License.
+
 
 vbnet
 Copy code
