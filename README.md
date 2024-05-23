@@ -29,6 +29,7 @@ You can view the live project [here](https://pareshkharche.github.io/TeamWebPage
 sh
 Copy code
 cd TeamWebPage
+
 3. Open index.html in your web browser to view the webpage.
 
 Customization
